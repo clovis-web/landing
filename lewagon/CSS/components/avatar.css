@@ -1,0 +1,8 @@
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block; /* Pour un centrage facile */
+  border: 2px solid #ccc; /* Bordure facultative */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Ombre facultative */
+}
